@@ -4,7 +4,9 @@
 - ⚡ Fun fact: 
 - 📫 Contact me: 
 <div align=center>
-	 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pancake15@snu.ac.kr)](mailto:pancake15@snu.ac.kr)
+	
+	-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pancake15@snu.ac.kr)](mailto:pancake15@snu.ac.kr)
+	
 </div>
 
 <!--
