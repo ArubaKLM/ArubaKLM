@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning R, Python, Js, React
 - ⚡ Fun fact: 
 - 📫 Contact me: 
--<div align=center>
+<div align=center>
 	 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pancake15@snu.ac.kr)](mailto:pancake15@snu.ac.kr)
   </div>
 
